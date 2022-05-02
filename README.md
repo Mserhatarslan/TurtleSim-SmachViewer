@@ -56,7 +56,9 @@ Main construct of Smach Algorithm
 
 
 
-` rosrun smach_viewer smach_viewer.py   `
+` rosrun smach_viewer smach_viewer.py   
+
+`
 ![image](https://user-images.githubusercontent.com/63358327/166304447-50f6a0b1-61da-4a2f-b85f-3102982fe6b4.png)
 
 
