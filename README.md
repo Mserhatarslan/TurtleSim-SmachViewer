@@ -1,6 +1,7 @@
 # TurtleSim-SmachViewer
 
 What is Smach ?
+
 SMACH (pronounced as smash) is a Python-based library that helps us handle complex
 robot behaviors. It is a standalone Python tool that can be used to build hierarchical or
 concurrent state machines.
