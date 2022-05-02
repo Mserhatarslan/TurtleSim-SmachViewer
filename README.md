@@ -16,7 +16,8 @@ resultant combination can help us build more sophisticated systems.
 The state machine we design or create in smach_ros can be visualized for debugging or
 analysis through a tool called SMACH viewer.
 
-LONG STORY SHORT SMACH containers can provide a debugging interface (over ROS) which allows a 
+LONG STORY SHORT SMACH; 
+containers can provide a debugging interface (over ROS) which allows a 
 developer to get full introspection into a state machine. 
 The SMACH viewer can use this debugging interface to visualize and interact with your state machine.
 
